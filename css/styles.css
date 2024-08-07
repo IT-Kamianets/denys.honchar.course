@@ -78,3 +78,39 @@ h1, h2 {
 p {
     margin-bottom: 10px;
 }
+
+/* Specific styles for lesson1.html */
+
+/* Text styling examples */
+.text-sample {
+    color: #333;
+    font-size: 18px;
+    font-family: 'Georgia', serif;
+    font-weight: bold;
+}
+
+.text-color {
+    color: red;
+}
+
+.text-size {
+    font-size: 24px;
+}
+
+.text-family {
+    font-family: Arial, sans-serif;
+}
+
+.text-bold {
+    font-weight: bold;
+}
+
+/* Block styling example */
+.block-sample {
+    width: 300px;
+    height: 200px;
+    padding: 20px;
+    border: 2px solid #4CAF50;
+    margin: 20px 0;
+    background-color: #e7f4e4;
+}
